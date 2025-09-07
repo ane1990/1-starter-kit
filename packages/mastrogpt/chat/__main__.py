@@ -1,7 +1,7 @@
 #--kind python:default
 #--web true
 #--param OLLAMA_API_HOST "$OLLAMA_API_HOST"
-#--param OLLAMA_CHAT_MODEL "$OLLAMA_CHAT_MODEL"
+#--param OLLAMA_API_SECRET "$OLLAMA_API_SECRET"
 
 import chat
 def main(args):
